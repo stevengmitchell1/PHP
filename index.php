@@ -5,7 +5,7 @@
 echo 'Today is '. date('Y-m-d') ."\n";
 ?>
 
-<p>PHP Page</p>
+<p>test</p>
 
 </body>
 </html>
